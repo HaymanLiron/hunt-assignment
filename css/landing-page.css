@@ -1,0 +1,39 @@
+.slideimg1{
+    height: 600px;
+    background-image: url("../../Git/hunt-assignment/images/img1.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    width: 100%;
+    display: block;
+
+}
+
+.textimg1{
+
+    font-family: 'Karla', sans-serif;
+    color:#44829D;
+    font-size: 100px;
+}
+
+.marginimg1{
+
+    margin-top: 150px;
+}
+
+.slideimg2{
+    height: 600px;
+    background-image: url("../images/img2.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    width: 100%;
+    display: block;
+
+}
+.textimg2{
+
+    font-family: 'Karla', sans-serif;
+    color:#44829D;
+    font-size: 75px;
+}
