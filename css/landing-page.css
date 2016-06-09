@@ -31,12 +31,14 @@ body, img, h1, div {
 }
 
 .sli4 {
+
+
     color: #9EB986;
     font-family: 'Karla', sans-serif;
     font-size: 30px;
-    margin-left:360px;
-    margin-bottom: 400px;
     line-height: 2px;
+    margin-left: 20%;
+    margin-bottom: 5%;
 }
 
 .sli5{
@@ -132,7 +134,8 @@ body, img, h1, div {
     right: 0;
 }
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 900px) {
     .sli1, .sli2, .sli3, .sli4, .sli5, .sli6, .sli7 {
         color: white;
         font-family: 'Karla', sans-serif;
