@@ -12,29 +12,11 @@ body, img, h1, div {
     margin-bottom: 200px;
 }
 
-.slideimg1{
-    height: 600px;
-    background-image: url("../images/img1.jpg");
-    background-size: cover;
-    background-position: center;
-    text-align: center;
-    width: 100%;
-    display: block;
-
-}
-
-.textimg1{
-
-    font-family: 'Karla', sans-serif;
-    color:#44829D;
-    font-size: 100px;
-}
-
 .sli2{
     color: #0100ff;
     font-family: 'Karla', sans-serif;
     font-size: 30px;
-    line-height: 2px;
+    line-height: 30px;
     margin-left: -90px;
     text-align: justify;
 }
@@ -70,10 +52,11 @@ body, img, h1, div {
     color: #416001;
     font-family: 'Karla', sans-serif;
     font-size: 30px;
-    margin-left:-800px;
-    line-height: 2px;
-
+    text-align: justify;
+    line-height: 30px;
+    margin-left: -90px;
 }
+
 .sli7{
     color: black;
     font-family: 'Karla', sans-serif;
