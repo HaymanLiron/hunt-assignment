@@ -81,11 +81,40 @@ body, img, h1, div {
     background-position:center;
     background-repeat: no-repeat;
 }
+
 .textimg2{
 
     font-family: 'Karla', sans-serif;
     color:#44829D;
     font-size: 75px;
+}
+
+.image1 {
+    background-image:url('../images/img1.jpg');
+}
+
+.image2 {
+    background-image:url('../images/img2.jpg');
+}
+
+.image3 {
+    background-image:url('../images/img3.jpg');
+}
+
+.image4 {
+    background-image:url('../images/img4.jpg');
+}
+
+.image5 {
+    background-image:url('../images/img5.jpg');
+}
+
+.image6 {
+    background-image:url('../images/img6.jpg');
+}
+
+.image7 {
+    background-image:url('../images/img7.jpg');
 }
 
 .navbar-right-icons {
